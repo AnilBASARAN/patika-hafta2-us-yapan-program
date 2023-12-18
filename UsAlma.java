@@ -2,9 +2,8 @@ import java.util.Scanner;
 public class UsAlma {
 
 
-    // bu metod statik olmadığı için main methodunun içinde yeni bir obje oluşturduk ve
-    // bu objenin  sayesinde usAlme methodunu çağırdık
-    public int  usAlanMetod(int a, int b){
+   
+    public static int  usAlanMetod(int a, int b){
         int result = 1;
     for(int i = 1;i <=b;i++){
         result *= a;
