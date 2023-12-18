@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class UsAlma {
 
-    // UsAlma sınıfında usAlma isminde bir method belirledik.
+
     // bu metod statik olmadığı için main methodunun içinde yeni bir obje oluşturduk ve
     // bu objenin  sayesinde usAlme methodunu çağırdık
     public int  usAlanMetod(int a, int b){
