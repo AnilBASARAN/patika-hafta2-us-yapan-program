@@ -28,6 +28,6 @@ public class UsAlma {
         int result = sonuc.usAlma(base,exponential);
 
         System.out.print(base+" üzeri "+exponential+" :  "+result);
-
+//sonda da bastırıyoruz
     }
 }
