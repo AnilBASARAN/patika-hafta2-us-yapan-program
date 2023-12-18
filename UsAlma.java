@@ -23,8 +23,8 @@ public class UsAlma {
         System.out.print("Üssü girin:   ");
         exponential = input.nextInt();
 
-        UsAlma sonuc = new UsAlma();
-        int result = sonuc.usAlanMetod(base,exponential);
+     
+        int result = usAlma.usAlanMetod(base,exponential);
 
         System.out.print(base+" üzeri "+exponential+" :  "+result);
 //sonda da bastırıyoruz
